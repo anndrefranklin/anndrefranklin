@@ -1,4 +1,4 @@
-### Prezados Devs sou André Franklin 👋 
+### Prezados Devs sou André Franklin Desenvolvedor Web Front-end 👋 
 
 [![Blog](https://img.shields.io/website?label=andrefranklin.online&style=for-the-badge&url=http://andrefranklin.online)](http://www.andrefranklin.online)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-andre-franklin-farias-de-moraes-977847150/)
